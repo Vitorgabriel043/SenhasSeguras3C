@@ -97,6 +97,7 @@ body{
         <p class="parametro-senha__texto">12</p>
         <button class="parametro-senha__botao">+</button>
     </div>
+   
     .parametro-senha__texto{
     padding: 24px;
     border-top: 2px solid var(--borda);

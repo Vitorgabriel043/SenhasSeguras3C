@@ -80,7 +80,7 @@ body{
     flex-direction: column;
     justify-content: center;
 }
-.parametro-senha{*{
+.parametro-senha{
     margin:0;
     padding:0;
     box-sizing:border-box;
